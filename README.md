@@ -14,5 +14,5 @@
 
 
 
-
+<grok-card data-id="e45622" data-type="image_card"></grok-card>
 
