@@ -13,6 +13,3 @@
 Используются [датасет](https://disk.yandex.ru/d/8hb_9fAZatuyMw) Яндекс.Практикума. Содержит до 7043 пользователей с информацией об их тарифах и услугах.
 
 
-
-<grok-card data-id="e45622" data-type="image_card"></grok-card>
-
