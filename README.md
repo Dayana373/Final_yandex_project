@@ -20,7 +20,6 @@
 
 ![Матрица ошибок](screenshots/confusion_matrix.png)  
 ![Важность признаков](screenshots/feature_importance.png)  
-![ROC-кривая](screenshots/roc_curve.png)
 
 ### 🛠 Технологический стек
 - **Python 3.9.5**
