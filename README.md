@@ -31,7 +31,7 @@
 
 [Открыть ноутбук с интерактивными графиками (nbviewer)](https://nbviewer.org/github/Dayana373/Portfolio_Yandex/blob/4518223c1509ffa941e87acc8017c1c75f7f97b1/final_project.ipynb)
 
-[Открыть ноутбук напрямую на GitHub](https://github.com/Dayana373/Portfolio_Yandex/blob/main/final_project.ipynb)
+[Открыть ноутбук напрямую на GitHub](https://github.com/Dayana373/Portfolio_Yandex/blob/main/final_project.ipynb) (Единственный нюанс — графики Plotly в GitHub не отображаются)
 
 ### 📁 Данные
 Данные предоставлены Яндекс.Практикумом:
@@ -39,7 +39,7 @@
 [Скачать датасет](https://disk.yandex.ru/d/8hb_9fAZatuyMw)
 
 ### 👩‍💻 Автор
-Даяна  
+Диана Сергеева  
 Data Scientist | Выпускница Яндекс.Практикум  
 GitHub: [@Dayana373](https://github.com/Dayana373)
 
