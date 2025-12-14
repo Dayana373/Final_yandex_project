@@ -1,7 +1,7 @@
 # Клиент под контролем  
 ### Прогноз оттока клиентов телеком-компании (Выпускной проект Яндекс.Практикум)
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9.5-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 ![CatBoost](https://img.shields.io/badge/CatBoost-Gradient_Boosting-yellowgreen?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-~93%25-brightgreen?style=for-the-badge)
@@ -18,8 +18,9 @@
 
 ### 📊 Превью результатов
 
-![Матрица ошибок](screenshots/confusion_matrix.png)  
-![Важность признаков](screenshots/feature_importance.png)  
+<img src="screenshots/confusion_matrix.png" alt="Цены по удалённости от центра" width="500">
+
+<img src="screenshots/feature_importance.png" alt="Цены по удалённости от центра" width="500">
 
 ### 🛠 Технологический стек
 - **Python 3.9.5**
