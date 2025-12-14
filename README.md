@@ -3,6 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9.5-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-Gradient_Boosting-yellowgreen?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-~93%25-brightgreen?style=for-the-badge)
 
